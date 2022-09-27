@@ -11,6 +11,5 @@ public class Harmonic {
             System.out.printf("\n%.2f",p);
         }
         System.out.printf("\n%.2f",sum);
-        System.out.println("Привет Гитхаб");
     }
 }
